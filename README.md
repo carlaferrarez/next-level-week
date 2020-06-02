@@ -48,8 +48,9 @@ npx tsc --init
 cd server
 npm run dev > dev assignado dentro do package.json
 ```
-```
+
 ###### Front-end
+```
 cd web
 npm start
 ```
