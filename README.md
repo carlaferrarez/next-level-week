@@ -5,8 +5,51 @@ Semana organizada pela Rocketseat para impulsionar a carreira como Desenvolvedor
 
 * Download Nodejs
 
-## Comandos
-### Criar o package.json com configurações padrão
+## Dependências
+
+```
+npm install express > interpreta os caminhos da aplicação
+```
+```
+npm install @types/express -D > -D: apenas para ambiente de desenvolvimento
+```
+```
+npm install ts-node -D > node interpretar o typescript
+```
+```
+npm install typescript -D
+```
+```
+npm install ts-node-dev -D > assim não é necessário reiniciar o servidor a cada modificação
+```
+```
+npx create-react-app web --template=typescript 
+```
+
+## Comandos iniciais
+##### Criar inicialização do projeto com configurações padrão
 ```
 npm init -y
+```
+##### Abre o Visual Code dentro do terminal
+```
+cd pathFolder
+```
+```
+code .
+```
+##### Cria configuração padrão do TypeScript
+```
+npx tsc --init
+```
+##### Executa o projeto
+###### Back-end
+```
+cd server
+npm run dev > dev assignado dentro do package.json
+```
+```
+###### Front-end
+cd web
+npm start
 ```
