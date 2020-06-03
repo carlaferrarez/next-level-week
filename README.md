@@ -25,7 +25,12 @@ npm install ts-node-dev -D > assim não é necessário reiniciar o servidor a ca
 ```
 npx create-react-app web --template=typescript 
 ```
-
+```
+npm install knex
+```
+```
+npm install sqlite3
+```
 ## Comandos iniciais
 ##### Criar inicialização do projeto com configurações padrão
 ```
@@ -41,6 +46,14 @@ code .
 ##### Cria configuração padrão do TypeScript
 ```
 npx tsc --init
+```
+##### Executa a migração do banco de dados
+```
+npm run knex:migrate
+```
+##### Executa para popular o banco de dados
+```
+npm run knex:seed
 ```
 ##### Executa o projeto
 ###### Back-end
