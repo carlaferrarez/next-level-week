@@ -31,6 +31,10 @@ npm install knex
 ```
 npm install sqlite3
 ```
+```
+npm install cors
+```
+
 ## Comandos iniciais
 ##### Criar inicialização do projeto com configurações padrão
 ```
