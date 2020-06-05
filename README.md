@@ -34,18 +34,6 @@ npm install sqlite3
 ```
 npm install cors
 ```
-```
-npm install react-icons
-```
-```
-npm install react-router-dom
-```
-```
-npm install leaflet react-leaflet
-```
-```
-npm install axios
-```
 
 ## Comandos iniciais
 ##### Criar inicialização do projeto com configurações padrão
