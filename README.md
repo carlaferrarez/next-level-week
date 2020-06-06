@@ -7,6 +7,8 @@ Semana organizada pela Rocketseat para impulsionar a carreira como Desenvolvedor
 
 ## Dependências
 
+### Back-end
+
 ```
 npm install express > interpreta os caminhos da aplicação
 ```
@@ -32,7 +34,61 @@ npm install knex
 npm install sqlite3
 ```
 ```
+```
+npm install leaflet
+```
 npm install cors
+```
+
+### Front-end
+
+```
+npm install react-icons
+```
+```
+npm install react-router-dom
+```
+```
+npm install leaflet react-leaflet
+```
+```
+npm install axios
+```
+
+### Mobile
+
+```
+npm install -g expo-cli
+```
+```
+npm install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
+```
+```
+npm install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
+```
+```
+npm install @react-navigation/native
+```
+```
+npm install @react-navigation/stack
+```
+```
+expo install react-native-maps
+```
+```
+expo install expo-constants
+```
+```
+expo install react-native-svg
+```
+```
+npm install axios
+```
+```
+expo install expo-location
+```
+```
+expo install expo-mail-composer
 ```
 
 ## Comandos iniciais
