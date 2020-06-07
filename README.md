@@ -2,7 +2,7 @@
 Aplicação web e mobile desenvolvida para encontrar pontos de coleta seletiva no Brasil. Evento organizado pela RocketSeat 🚀
 
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src=".images/logo.png">
+    <img alt="Logo" title="#logo" width="300px" src="images/logo.PNG">
     <br><br>
     <br>
 </h3>
