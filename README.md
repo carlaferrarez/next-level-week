@@ -1,5 +1,5 @@
 # next-level-week
-Semana organizada pela Rocketseat para impulsionar a carreira como Desenvolvedor Web FullStack
+Aplicação desenvolvida para encontrar pontos de coleta seletiva no Brasil. Evento organizado pela RocketSeat 🚀
 
 ## Pré-requisitos
 
@@ -34,8 +34,8 @@ npm install knex
 npm install sqlite3
 ```
 ```
-```
 npm install leaflet
+```
 ```
 npm install cors
 ```
