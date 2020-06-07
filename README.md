@@ -2,12 +2,12 @@
 Aplicação web e mobile desenvolvida para encontrar pontos de coleta seletiva no Brasil. Evento organizado pela RocketSeat 🚀
 
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src="images/logo.PNG">
+    <img alt="Logo" title="#logo" width="300px" src="images/logo.png">
     <br><br>
     <br>
 </h3>
 
-![alt text](https://github.com/carlaferrarez/next-level-week/blob/master/images/web.png?raw=true)
+![alt text](https://github.com/carlaferrarez/next-level-week/blob/master/images/web.PNG?raw=true)
 
 ## Tecnologias utilizadas
 
