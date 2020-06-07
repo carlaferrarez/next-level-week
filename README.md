@@ -1,9 +1,20 @@
 # next-level-week
-Aplicação desenvolvida para encontrar pontos de coleta seletiva no Brasil. Evento organizado pela RocketSeat 🚀
+Aplicação web e mobile desenvolvida para encontrar pontos de coleta seletiva no Brasil. Evento organizado pela RocketSeat 🚀
 
-## Pré-requisitos
+<h3 align="center">
+    <img alt="Logo" title="#logo" width="300px" src=".images/logo.png">
+    <br><br>
+    <br>
+</h3>
 
-* Download Nodejs
+![alt text](https://github.com/carlaferrarez/next-level-week/blob/master/images/web.png?raw=true)
+
+## Tecnologias utilizadas
+
+- TypeScript
+- Node.js
+- ReactJS
+- React Native
 
 ## Dependências
 
