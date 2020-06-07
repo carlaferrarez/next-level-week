@@ -5,9 +5,8 @@ Aplicação web e mobile desenvolvida para encontrar pontos de coleta seletiva n
     <img alt="Logo" title="#logo" width="300px" src="images/logo.png">
     <br><br>
     <br>
+    <img alt="Web" title="#web" width="300px" src="images/web.PNG">
 </h3>
-
-![alt text](https://github.com/carlaferrarez/next-level-week/blob/master/images/web.PNG?raw=true)
 
 ## Tecnologias utilizadas
 
