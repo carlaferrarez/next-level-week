@@ -5,7 +5,7 @@ Aplicação web e mobile desenvolvida para encontrar pontos de coleta seletiva n
     <img alt="Logo" title="#logo" width="300px" src="images/logo.png">
     <br><br>
     <br>
-    <img alt="Web" title="#web" width="300px" src="images/web.PNG">
+    <img alt="Web" title="#web" width="500px" src="images/web.PNG">
 </h3>
 
 ## Tecnologias utilizadas
