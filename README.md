@@ -39,6 +39,12 @@ npm install leaflet
 ```
 npm install cors
 ```
+```
+npm install multer
+```
+```
+npm install celebrate > validação dos dados
+```
 
 ### Web
 
@@ -53,6 +59,9 @@ npm install leaflet react-leaflet
 ```
 ```
 npm install axios
+```
+```
+npm install react-dropzone
 ```
 
 ### Mobile
