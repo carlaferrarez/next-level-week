@@ -40,7 +40,7 @@ npm install leaflet
 npm install cors
 ```
 
-### Front-end
+### Web
 
 ```
 npm install react-icons
